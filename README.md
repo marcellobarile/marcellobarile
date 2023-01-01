@@ -30,7 +30,10 @@ In short, a computer enthusiast with 10+ years of well-rounded experience in ful
 
 ## Stats
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=marcellobarile&count_private=true&show_icons=true&include_all_commits=true&theme=prussian&layout=compact)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcellobarile&hide=TeX&layout=compact&theme=prussian)
+[![Trophies](https://github-profile-trophy.vercel.app/?username=marcellobarile&row=1&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcellobarile&hide=TeX&layout=compact&theme=dark)
+
+[![Streak](https://github-readme-streak-stats.herokuapp.com/?user=marcellobarile&theme=dark)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=marcellobarile.marcellobarile)
