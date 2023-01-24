@@ -6,8 +6,8 @@ In my spare time I contribute to some awesome projects such as [Mapo Tapo](https
 
 In short, a computer enthusiast with 10+ years of well-rounded experience in full-stack development focused on JavaScript, TypeScript, Node.js, and GraphQL who loves nature, rock climbing, science, philosophy, and astrophotography... I recommend looking at my LinkedIn to see my profile in detail or my Medium profile in case you are curious about the things I write :-)
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcellobarile/)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@marcello_barile)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%23000000.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcellobarile/)
+[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@marcello_barile)
 
 ## Main skills
 
