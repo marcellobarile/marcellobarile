@@ -2,7 +2,7 @@
 
 I am Marcello Barile, a **Software Engineer** based out of Southern Italy working at [Camunda GmbH](https://camunda.com/).
 
-In my spare time I contribute to some awesome projects such as [Mapo Tapo](https://mapotapo.com/) and [WeClimb.it](https://weclimb.it).
+In my spare time, I contribute to some awesome projects such as [Mapo Tapo](https://mapotapo.com/).
 
 In short, a computer enthusiast with 10+ years of well-rounded experience in full-stack development focused on JavaScript, TypeScript, Node.js, and GraphQL who loves nature, rock climbing, science, philosophy, and astrophotography... I recommend looking at my LinkedIn to see my profile in detail or my Medium profile in case you are curious about the things I write :-)
 
